@@ -1,0 +1,56 @@
+rolemanage
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+*.env
+.env
+
+# Python-specific
+*.pyd
+*.pdb
+*.pyc
+
+# Logs and debug files
+*.log
+
+# Database and migrations
+*.sqlite3
+*.db
+migrations/
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Tests and coverage reports
+htmlcov/
+coverage.xml
+*.cover
+*.coverage
+.cache
+
+# Generated files
+*.bak
+*.swp
+*.orig
+
+# Build files
+build/
+dist/
+*.egg-info/
